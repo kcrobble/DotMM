@@ -20,3 +20,6 @@
 
 - [[01 SESSIONS/MotRK/01 CAMPAIGN/LUSKAN\|Burtle]] 
 - [[01 SESSIONS/MotRK/01 CAMPAIGN/MIRABAR\|Zorzire, Bearheart & Thyra]] 
+
+
+![InterlopersMap.png|1000](/img/user/zMISC/z_Assets/InterlopersMap.png)
