@@ -3,8 +3,7 @@
 ---
 
 ## Links
-- https://dot-mm.vercel.app/
-- [Owlbear Rodeo](https://www.owlbear.rodeo/room/INJ5YS23Akae/TheInterlopers)
+[This Website](https://dot-mm.vercel.app) /  **[Owlbear Rodeo](https://www.owlbear.rodeo/room/INJ5YS23Akae/TheInterlopers)**
 
 ## Sessions
 
