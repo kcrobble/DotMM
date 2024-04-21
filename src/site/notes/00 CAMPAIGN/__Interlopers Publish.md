@@ -3,7 +3,7 @@
 ---
 
 ## Links
-**[Owlbear Rodeo](https://www.owlbear.rodeo/room/INJ5YS23Akae/TheInterlopers)**  /  **[[00 CAMPAIGN/Foes\|Foes]]**  /  **[[00 CAMPAIGN/Treasure\|Treasure]]** / **[[00 CAMPAIGN/Locations\|Locations]]**
+**[Owlbear Rodeo](https://www.owlbear.rodeo/room/INJ5YS23Akae/TheInterlopers)**  /  **[[00 CAMPAIGN/Foes\|Foes]]**  /  **[[00 CAMPAIGN/Treasure\|Treasure]]** / **[[00 CAMPAIGN/Locations\|Locations]]** / **[[00 CAMPAIGN/Artifacts\|Artifacts]]**
 
 ## Sessions
 
