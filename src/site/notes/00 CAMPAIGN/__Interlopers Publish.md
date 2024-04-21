@@ -3,17 +3,13 @@
 ---
 
 ## Links
-[This Website](https://dot-mm.vercel.app) /  **[Owlbear Rodeo](https://www.owlbear.rodeo/room/INJ5YS23Akae/TheInterlopers)**
+**[Owlbear Rodeo](https://www.owlbear.rodeo/room/INJ5YS23Akae/TheInterlopers)**  /  **[[00 CAMPAIGN/Foes\|Foes]]**  /  **[[00 CAMPAIGN/Treasure\|Treasure]]** / **[[00 CAMPAIGN/Locations\|Locations]]**
 
 ## Sessions
 
 - **[[01 SESSIONS/MotRK/00 NOTES/240420\|02 - 04/20/24 - Old Cave Cont.]]**
-- **[[01 SESSIONS/MotRK/00 NOTES/240309\|01 - 03/09/24 - Tugby & Old Cave]]**
-	- [[01 SESSIONS/MotRK/00 NOTES/240309 Old Cave Map\|Session Map]]
-	- [[01 SESSIONS/MotRK/01 CAMPAIGN/OLD CAVE\|OLD CAVE]] 
-	- [[01 SESSIONS/MotRK/01 CAMPAIGN/The Last Drop Inn\|The Last Drop Inn]]
-	- [[01 SESSIONS/MotRK/01 CAMPAIGN/TUGBY\|TUGBY]] 
 
+- **[[01 SESSIONS/MotRK/00 NOTES/240309\|01 - 03/09/24 - Tugby & Old Cave]]**
 
 ## Backgrounds
 
