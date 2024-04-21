@@ -3,8 +3,12 @@
 ---
 
 
-- ![RedBag.png|200](/img/user/zMISC/z_Assets/RedBag.png)
-- ![RKJournal01.png|200](/img/user/zMISC/z_Assets/RKJournal01.png)
-- ![RKJournal02.png|200](/img/user/zMISC/z_Assets/RKJournal02.png)
-- ![Emeria.png|200](/img/user/zMISC/z_Assets/Emeria.png)
+**RedBag's Tip**
+![RedBag.png|300](/img/user/zMISC/z_Assets/RedBag.png)
+
+**The Rat King's Journal Entries**
+![RKJournal01.png|300](/img/user/zMISC/z_Assets/RKJournal01.png), ![RKJournal02.png|300](/img/user/zMISC/z_Assets/RKJournal02.png)
+
+**The Skeleton's Warning**
+![Emeria.png|300](/img/user/zMISC/z_Assets/Emeria.png)
 
