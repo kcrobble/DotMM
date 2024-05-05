@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/03-adventures/01-mot-rk/00-mot-rk-campaign/tugby/","tags":["Interlopers"]}
+{"dg-publish":true,"permalink":"/03-adventures/01-mot-rk/00-mot-rk-campaign/tugby/","tags":["Interlopers","MotRK"]}
 ---
 
 
