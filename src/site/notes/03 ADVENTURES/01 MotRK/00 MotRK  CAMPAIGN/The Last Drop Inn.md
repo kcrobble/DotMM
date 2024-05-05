@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/03-adventures/01-mot-rk/00-mot-rk-campaign/the-last-drop-inn/","tags":["Interlopers"]}
+{"dg-publish":true,"permalink":"/03-adventures/01-mot-rk/00-mot-rk-campaign/the-last-drop-inn/","tags":["Interlopers","MotRK"]}
 ---
 
 
