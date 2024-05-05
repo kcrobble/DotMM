@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/05-characters/bryce-dindrer/","tags":["Interlopers"]}
+{"dg-publish":true,"permalink":"/05-characters/bryce-dindrer/","tags":["Interlopers","MotRK"]}
 ---
 
 
