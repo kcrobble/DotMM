@@ -1,3 +1,3 @@
 ---
-{"dg-publish":true,"permalink":"/05-characters/wrin/","tags":["Interlopers"]}
+{"dg-publish":true,"permalink":"/05-characters/wrin/","tags":["Interlopers","MotRK"]}
 ---
