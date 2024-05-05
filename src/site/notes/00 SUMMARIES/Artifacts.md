@@ -3,6 +3,7 @@
 ---
 
 
+#### The Madness of the Rat King
 **RedBag's Tip**
 ![RedBag.png|300](/img/user/zMISC/z_Assets/Artifacts/RedBag.png)
 
