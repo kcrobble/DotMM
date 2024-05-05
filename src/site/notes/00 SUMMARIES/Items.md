@@ -9,6 +9,7 @@
 | 1   | Eldritch Tattoo            | Weapon        | true  | Rare (requires attunement)) | Barnibus |
 | 1   | Alchemist’s Fire           | Flask         | false | Common                      | Burtle   |
 | 1   | Blue Sky Silk Vest         | Wondrous Item | true  | Uncommon                    | Burtle   |
+| 3   | Potion of Gaseous Form     | Potion        | true  | Rare                        | Burtle   |
 | 3   | Potion of Healing          | Potion        | true  | Common                      | Burtle   |
 | 1   | Shadowsword                | Weapon        | true  | Rare                        | Burtle   |
 | 2   | Sludgy Yellow Potion       | Potion        | true  | Uncommon                    | Burtle   |
