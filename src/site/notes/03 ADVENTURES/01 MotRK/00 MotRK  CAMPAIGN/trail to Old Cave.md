@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/03-adventures/01-mot-rk/00-mot-rk-campaign/trail-to-old-cave/","tags":["Interlopers"]}
+{"dg-publish":true,"permalink":"/03-adventures/01-mot-rk/00-mot-rk-campaign/trail-to-old-cave/","tags":["Interlopers","MotRK"]}
 ---
 
 
@@ -35,4 +35,4 @@
 > 
 > Putting his back to a tree, the boy sits in the cool shade of the trees to wait.
 > 
-> After a quick splash and drink in the cold stream, you turn and begin the hot climb up the dusty and unstable scree towards the yawning darkness of the Old Cave.
+> After a quick splash and drink in the cold stream, you turn and begin the hot climb up the dusty and unstable scree towards the yawning darkness of the [[03 ADVENTURES/01 MotRK/01 MotRK MAP KEYS/A - CAVE ENTRANCE\|Old Cave]].
