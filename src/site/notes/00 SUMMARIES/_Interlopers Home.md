@@ -6,7 +6,7 @@
 ## Home of the Interlopers
 
 ---
-#### **[Owlbear Rodeo](https://www.owlbear.rodeo/room/INJ5YS23Akae/TheInterlopers)** Link
+#### **[Owlbear Rodeo](https://www.owlbear.rodeo/room/INJ5YS23Akae/TheInterlopers)**
 
 ---
 #### SUMMARIES
