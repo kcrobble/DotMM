@@ -2,12 +2,14 @@
 {"dg-publish":true,"permalink":"/00-summaries/interlopers-home/","tags":["gardenEntry"]}
 ---
 
-#### LINKS
-**[Owlbear Rodeo](https://www.owlbear.rodeo/room/INJ5YS23Akae/TheInterlopers)**
+---
+#### **[Owlbear Rodeo](https://www.owlbear.rodeo/room/INJ5YS23Akae/TheInterlopers)** Link
 
+---
 #### SUMMARIES
 | **[[00 SUMMARIES/Foes\|Foes]]** | **[[00 SUMMARIES/Treasure\|Treasure]]** | **[[00 SUMMARIES/Items\|Items]]** | **[[00 SUMMARIES/Locations\|Locations]]** | **[[00 SUMMARIES/Artifacts\|Artifacts]]** | **[[00 SUMMARIES/Characters\|Characters]]** |
 
+---
 #### SESSIONS
 
 | Date                                       | Title                             | Adventure                   |
@@ -17,6 +19,7 @@
 
 { .block-language-dataview}
 
+---
 #### BACKGROUNDS
 
 - [[05 CHARACTERS/PCs/_LUSKAN\|Burtle]] 
