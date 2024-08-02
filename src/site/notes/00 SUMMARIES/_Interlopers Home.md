@@ -10,15 +10,15 @@
 
 ---
 #### SUMMARIES
-| **[[00 SUMMARIES/Foes\|Foes]]** | **[[00 SUMMARIES/Treasure\|Treasure]]** | **[[00 SUMMARIES/Items\|Items]]** | **[[00 SUMMARIES/Locations\|Locations]]** | **[[00 SUMMARIES/Artifacts\|Artifacts]]** | **[[00 SUMMARIES/Characters\|Characters]]** |
+| **[[00 SUMMARIES/Foes\|Foes]]** | **[[00 SUMMARIES/Treasure\|Treasure]]** | **[[00 SUMMARIES/Items\|Items]]** | **[[00 SUMMARIES/Locations\|Locations]]** | **[[00 SUMMARIES/Artifacts\|Artifacts]]** | **[[00 SUMMARIES/Characters\|Characters]]** | **[[00 SUMMARIES/Goals\|Goals]]**
 
 ---
 #### SESSIONS
 
 | Date                                       | Title                             | Adventure                   |
 | ------------------------------------------ | --------------------------------- | --------------------------- |
+| [[01 SESSIONS/00 NOTES/240903\|240903]] | 06/17/2024 - 03 Old Cave (cont.), | The Madness of the Rat King |
 | [[01 SESSIONS/00 NOTES/240420\|240420]] | 04/20/2024 - 02 Old Cave (cont.), | The Madness of the Rat King |
-| [[01 SESSIONS/00 NOTES/240309\|240309]] | 03/09/2024 - 01 Tugby & Old Cave  | The Madness of the Rat King |
 
 { .block-language-dataview}
 
