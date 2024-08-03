@@ -3,6 +3,12 @@
 ---
 
 
+| GOAL                                  | REWARD          | SOURCE                  | COMPLETE  |
+| ------------------------------------- | --------------- | ----------------------- |:---------:|
+| Retrieve the Armor of Invulnerability | Magic Item      | [[05 CHARACTERS/PCs/_LUSKAN\|Stolen Tip]] |           |
+| Find the Rat King                     |                 | Adventure               |     Y     |
+| Save Bryce Dindrer from Old Cave      | Monetary reward | [[05 CHARACTERS/Ilfen Dindrer\|Ilfen Dindrer]]       | (partial) |
+
 | Session                                    | Goals                                                                                                                                                       |
 | ------------------------------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | [[01 SESSIONS/00 NOTES/240420\|240420]] | <ul><li>Find **[[03 ADVENTURES/01 MotRK/03 MotRK CREATURES/the Rat King\|the Rat King]]**</li><li>Retrieve the **Armor of Invulnerability** and split the profits</li></ul>                                         |
