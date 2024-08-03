@@ -15,10 +15,10 @@
 ---
 #### SESSIONS
 
-| Date                                       | Title                             | Adventure                   |
-| ------------------------------------------ | --------------------------------- | --------------------------- |
-| [[01 SESSIONS/00 NOTES/240903\|240903]] | 06/17/2024 - 03 Old Cave (cont.), | The Madness of the Rat King |
-| [[01 SESSIONS/00 NOTES/240420\|240420]] | 04/20/2024 - 02 Old Cave (cont.), | The Madness of the Rat King |
+| file.link                                  | Title                      | Date           | Adventure                   |
+| ------------------------------------------ | -------------------------- | -------------- | --------------------------- |
+| [[01 SESSIONS/00 NOTES/240420\|240420]] | 02 - Old Cave (cont.)      | April 20, 2024 | The Madness of the Rat King |
+| [[01 SESSIONS/00 NOTES/240309\|240309]] | 01 - The Old Cave in Tugby | March 09, 2024 | The Madness of the Rat King |
 
 { .block-language-dataview}
 
