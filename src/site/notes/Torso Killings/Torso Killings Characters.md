@@ -19,7 +19,7 @@ _(in order of appearance)_
 	- Anya (coworker)
 	- One-Armed Willie
 	- Description of The Hobo Doctor -bgives medical care to unfortunates, lots of pomade
-	- Last person seen with **Victim #3, Florence Polillo**
+	- Last person seen with **Victim No. 3, Florence Polillo**
 
 **Anya**
 - Lady of the night
@@ -44,7 +44,7 @@ _(in order of appearance)_
 - Local Tattoo Artist/Tough Guy
 - Clues:
 	- Using arrowhead glyph of "Aztec Odysseus"/Jaguar Knights as base for tattoo design (has added snakes, etc).  Glyph represents dismembered goddess (is that correct?)
-	- Mondo gave this tattoo to **Victim #2, Edward Adrassy**
+	- Mondo gave this tattoo to **Victim No. 2, Edward Adrassy**
 
 **Dr. Bob**
 - Doctor at Mercy Hospital
