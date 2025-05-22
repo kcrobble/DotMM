@@ -3,4 +3,4 @@
 ---
 
 
-![EXCAL_Session01_Visual.png](/img/user/Torso%20Killings/EXCAL_Session01_Visual.png)
+![EXCAL_Session01_Visual.png](/img/user/Torso%20Killings/EXCAL_Session01_Visual.png).

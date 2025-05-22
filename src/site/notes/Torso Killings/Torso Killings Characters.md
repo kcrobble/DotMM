@@ -55,7 +55,7 @@ _(in order of appearance)_
 - Medical Examiner
 - Familiar with Torso Killer victims
 - Clues:
-	- Most of the victim's were professionally cut, but Victim #9 & #10 seemed frenzied & amateurish
+	- Most of the victim's were professionally cut, but Victim No. 9 & No. 10 seemed frenzied & amateurish
 	- has headaches and nightmares when working with Torso Killer victims:  _"under the river, running trains_
 
 
