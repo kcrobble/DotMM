@@ -7,18 +7,23 @@
 https://caltopo.com/m/P1T1U57
 
 #### REVELATIONS
-- rail lines are key; dump sites & likely ritual killing site (see [[Torso Killings/Torso Killings Investigation#AZTEC HOBO THEORY\|Torso Killings Investigation#AZTEC HOBO THEORY]])
+- Rail lines are key; dump sites & likely ritual killing site _(see [[Torso Killings/Torso Killings Investigation#AZTEC HOBO THEORY\|Torso Killings Investigation#AZTEC HOBO THEORY]])_
 - One-armed Willy is **victim No. B** - He will indeed be "killed in 1929" **time-travel is at work**
-- Dr. Hobo is likely **victim No. 5** (see [[Torso Killings/Torso Killings Investigation#AZTEC HOBO THEORY\|Torso Killings Investigation#AZTEC HOBO THEORY]])
+- Dr. Hobo is likely **victim No. 5** _(see [[Torso Killings/Torso Killings Investigation#AZTEC HOBO THEORY\|Torso Killings Investigation#AZTEC HOBO THEORY]])_
 
 #### QUESTIONS
-- does hobo dr drive himself or have a driver/assistant
-- ~~victims 9 & 10 different killer, or same killer before he got good?~~ (see [[Torso Killings/Torso Killings Investigation#AZTEC HOBO THEORY\|Torso Killings Investigation#AZTEC HOBO THEORY]])
-- How does time-travel play into this? (see [[Torso Killings/Torso Killings Investigation#REVELATIONS\|Torso Killings Investigation#REVELATIONS]])
+- Does the Hobo Dr. drive himself or have a driver/assistant?
+- ~~Were victims 9 & 10 slain by a different killer, or the same killer before he got good?~~ _(Hobo Dr killed all but 9 or 10, see [[Torso Killings/Torso Killings Investigation#AZTEC HOBO THEORY\|Torso Killings Investigation#AZTEC HOBO THEORY]])_
+- How does time-travel play into this? _(see [[Torso Killings/Torso Killings Investigation#REVELATIONS\|Torso Killings Investigation#REVELATIONS]])_
+- Given time-travel, how can we construct a chronology?
+- How do the tattoos relate to victim selection?
+- How do the tattoos relate to the dismemberment / Coyolxāuhqui rebuild?
+
 
 #### ACTION
 - Talk to Frank Dolezau
 - Stake Out One-armed Willy
+- Visit bridge sites, particularly in Big Creek
 
 #### AZTEC HOBO THEORY
 1) The Hobo Dr. is not the killer, the Hobo Dr. collects victims for the Aztec Hobo
