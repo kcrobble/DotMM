@@ -37,6 +37,7 @@ _(in order of appearance)_
 
 **One-Armed Willie
 - Crazy & Malnourished, Ranting
+- **In 1934 he is alive / In 1929 he is victim No. B**
 - Clues:
 	- _"whirlpool, he told me I am going to die in the past, he is going to cut off my arm in 1929, under the river, under the train, make them all into dogs"_
 
